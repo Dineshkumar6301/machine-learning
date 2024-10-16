@@ -1,0 +1,5 @@
+rider_id,current_location,capacity,availability,status
+101,Location A,2,free,idle
+102,Location B,1,free,idle
+103,Location C,3,free,idle
+104,Location D,2,free,idle
